@@ -1,0 +1,31 @@
+.task{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+    border: black solid 1px;
+    padding: 5px 10px;
+    font-size: large;
+    background-color: white;
+
+  }
+
+.task-btns{
+    display:flex;
+    column-gap: 10px;
+}
+
+.done{
+    color: green;
+}
+
+.remove{
+    color: red;
+}
+
+.btn{
+    background-color: white;
+    border: none;
+
+}

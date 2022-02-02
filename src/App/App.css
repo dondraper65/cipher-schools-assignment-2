@@ -1,0 +1,19 @@
+
+.App-header, .todo {
+  text-align: center;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+input{
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: larger;
+}
