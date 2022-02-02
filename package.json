@@ -2,7 +2,7 @@
   "name": "cipher-schools-assignment-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dondraper65.github.io/cipher-schools-assignment-2",
+  "homepage": "http://dondraper65.github.io/cipher-schools-assignment-2/",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
